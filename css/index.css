@@ -1157,5 +1157,18 @@ a {
     .header__content li {
         padding: 55px 5px;
     }
+    .footer__content {
+        display: block;
+    };
+    
+}
+@media screen and (max-width: 476px) {
+    .number__content{
+        display: block;
+        width: 50%;
+    }
+    .footer__content {
+        display: block;
+    };
     
 }
